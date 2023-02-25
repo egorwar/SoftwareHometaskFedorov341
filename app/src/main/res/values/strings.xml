@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SoftwareHometaskFedorov341</string>
+    <string name="triangle">That\'s a triangle!</string>
+    <string name="square">A square, isn\'t it?</string>
+    <string name="circle">This is supposed to be circle...</string>
+    <string name="surprise">Why is it blue?</string>
+</resources>
